@@ -12,7 +12,7 @@ house sale price data is shared here and the participants are
 expected to build a sale price prediction model that will aid the
 customers to find a fair price for their homes and also help the
 sellers understand what factors are fetching more money
-for the house
+for the house.
 
 ## Domain : Real Estate
 ### Tools: 
